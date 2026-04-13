@@ -25,6 +25,19 @@
 * **Hardware:** Arduino, GAL, FPGAs.
 
 ---
+## 🚀 Proyectos y Desarrollo
+
+### 📂 [Sistemas de Control y Algoritmos](https://github.com/giovannialvarado03-cell/Proyectos-Mecatronica/tree/main/Programacion_C_Java)
+* Desarrollo de lógica de programación orientada a la resolución de problemas técnicos, gestión de datos y optimización de procesos mediante estructuras de datos eficientes en **C** y **Java**.
+
+### 📟 [Hardware y Lógica Programable](https://github.com/giovannialvarado03-cell/Proyectos-Mecatronica/tree/main/Sistemas_Digitales_VHDL)
+* Implementación de sistemas embebidos y diseño de circuitos digitales utilizando **VHDL** y **Arduino**, enfocados en la automatización y el control de sistemas físicos.
+
+### 📊 [Modelado y Simulación](https://github.com/giovannialvarado03-cell/Proyectos-Mecatronica/tree/main/Simulaciones_MATLAB)
+* Aplicación de **MATLAB** y **Simulink** para el análisis de sistemas dinámicos y validación de modelos matemáticos en ingeniería.
+
+---
+
 
 ## 📬 Contacto
 Si tienes alguna duda sobre la implementación de estos proyectos, no dudes en contactarme a través de mi [LinkedIn](https://linkedin.com/in/giovanni-alvarado-bb857a3b7).
