@@ -30,7 +30,7 @@
 ### 📂 [Sistemas de Control y Algoritmos](https://github.com/giovannialvarado03-cell/Proyectos-Mecatronica/tree/main/programas)
 * Desarrollo de lógica de programación orientada a la resolución de problemas técnicos, gestión de datos y optimización de procesos mediante estructuras de datos eficientes en **C** y **Java**.
 
-### 📟 [Hardware y Lógica Programable](https://github.com/giovannialvarado03-cell/Proyectos-Mecatronica/tree/main/Sistemas_Digitales_VHDL)
+### 📟 [Hardware y Lógica Programable](https://github.com/giovannialvarado03-cell/Proyectos-Mecatronica/tree/main/reportesP)
 * Implementación de sistemas embebidos y diseño de circuitos digitales utilizando **VHDL** y **Arduino**, enfocados en la automatización y el control de sistemas físicos.
 
 ---
