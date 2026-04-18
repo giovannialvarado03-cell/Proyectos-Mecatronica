@@ -33,9 +33,6 @@
 ### 📟 [Hardware y Lógica Programable](https://github.com/giovannialvarado03-cell/Proyectos-Mecatronica/tree/main/Sistemas_Digitales_VHDL)
 * Implementación de sistemas embebidos y diseño de circuitos digitales utilizando **VHDL** y **Arduino**, enfocados en la automatización y el control de sistemas físicos.
 
-### 📊 [Modelado y Simulación](https://github.com/giovannialvarado03-cell/Proyectos-Mecatronica/tree/main/Simulaciones_MATLAB)
-* Aplicación de **MATLAB** y **Simulink** para el análisis de sistemas dinámicos y validación de modelos matemáticos en ingeniería.
-
 ---
 
 
